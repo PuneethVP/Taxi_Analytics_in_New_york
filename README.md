@@ -1,7 +1,5 @@
-# Taxi Analytics in New york
+# Taxi Analytics in New york | Modern Data Engineering GCP Project
 Data Engineering ETL Pipeline for obtaining Taxi analytics by leveraging Google cloud storage and modern Data Engineering Tools such as Mage-AI for ETL and analytics using BigQuery  and Looker studio (GCP) for dashboard creation
-
-# Uber Data Analytics | Modern Data Engineering GCP Project
 
 ## Introduction
 
